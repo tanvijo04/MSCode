@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Books.java&apos; to &apos;client/src/main/java/com.client&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-crud-operation&apos;&#x0D;&#x0A;- Destination element: &apos;client/src/main/java/com.client&apos;&#x0D;&#x0A;- Original element: &apos;com.javatpoint.model.Books.java&apos;" description="Copy compilation unit" destination="=client/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.client" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.javatpoint.model{Books.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1608025199342" units="1" version="1.0"/>
+</session>
