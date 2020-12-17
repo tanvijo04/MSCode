@@ -7415,3 +7415,18 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.ui 2 2 2020-12-17 14:59:07.452
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2020-12-17 15:24:30.345
+!MESSAGE Fetching content from: https://github.com/spring-guides/gs-client-side-load-balancing/archive/HEAD.zip
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-17 16:52:10.170
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dnbNtyXU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-17 16:52:10.183
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dnbNtyXU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-17 16:52:10.192
+!MESSAGE subsribers = {sts4.classpath.fdKhZMmI=Send Classpath Notifications(105)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-17 16:52:10.203
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dnbNtyXU => OK
